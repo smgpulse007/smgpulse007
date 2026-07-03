@@ -11,7 +11,7 @@ Generated from live GitHub API data on 2026-07-03 for smgpulse007.
 
 ## Category Summary
 
-- ARCHIVE_OR_PRIVATE_CANDIDATE: 4
+- ARCHIVE_OR_PRIVATE_CANDIDATE: 5
 - FEATURE_AFTER_POLISH: 1
 - FEATURE_PIN_NOW: 6
 - FORK_REFERENCE_ONLY: 38
@@ -32,6 +32,7 @@ Generated from live GitHub API data on 2026-07-03 for smgpulse007.
 | Repo | Action | Reason | Reversible |
 |---|---|---|---|
 | Check123 | Archived | Test/noise repository | Yes |
+| fp | Archived | Empty/no-default-branch repository | Yes |
 | fake-commits-generator | Archived | Off-brand fork/reference | Yes |
 | 30DaysOfCode | Archived | Coding-practice repo with off-brand public surface | Yes |
 | nfl_betting_model | Archived | Sports betting repo distracts from healthcare AI positioning | Yes |
@@ -63,7 +64,7 @@ Generated from live GitHub API data on 2026-07-03 for smgpulse007.
 | [ds4_rtx4090](https://github.com/smgpulse007/ds4_rtx4090) | FORK_REFERENCE_ONLY | False | True | main | C | yes | - | 2026-05-29T15:16:21Z | DeepSeek 4 Flash local inference engine for Metal and CUDA |
 | [faissNNSearch](https://github.com/smgpulse007/faissNNSearch) | KEEP_PUBLIC_NOT_FEATURED | False | False | main | Python | no | - | 2024-04-05T20:02:02Z | Using Faiss for Nearest Neighbor Search |
 | [fake-commits-generator](https://github.com/smgpulse007/fake-commits-generator) | ARCHIVE_OR_PRIVATE_CANDIDATE | True | True | master | Shell | yes | - | 2026-07-03T21:51:41Z | Archived fork/reference kept only for history; not original portfolio work. |
-| [fp](https://github.com/smgpulse007/fp) | KEEP_PUBLIC_NOT_FEATURED | False | False | master | - | no | - | 2019-03-23T00:46:43Z | - |
+| [fp](https://github.com/smgpulse007/fp) | ARCHIVE_OR_PRIVATE_CANDIDATE | True | False | (none) | - | no | - | 2026-07-03T22:39:41Z | Archived empty repository kept only for history; not part of the applied AI portfolio. |
 | [FreshTrackAIModule](https://github.com/smgpulse007/FreshTrackAIModule) | FEATURE_PIN_NOW | False | False | main | Python | yes | api, computer-vision, docker, document-ai, fastapi, llm, ocr, production-ready, structured-extraction, tesseract | 2026-07-03T21:51:25Z | OCR + LLM-enhanced parsing FastAPI service with structured JSON outputs, confidence scoring, Docker deployment, and API docs. |
 | [getweights_tfidf](https://github.com/smgpulse007/getweights_tfidf) | KEEP_PUBLIC_NOT_FEATURED | False | False | main | - | no | - | 2023-11-25T21:40:50Z | Gets weights from a reversed vocab dict and the tfidf score to get the topn words for each sample |
 | [gpt-2](https://github.com/smgpulse007/gpt-2) | FORK_REFERENCE_ONLY | False | True | master | Python | yes | - | 2019-10-15T23:09:20Z | Code for the paper "Language Models are Unsupervised Multitask Learners" |

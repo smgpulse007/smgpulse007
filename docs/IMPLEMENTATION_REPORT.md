@@ -25,6 +25,7 @@ No repositories were deleted or made private. These public repos were archived a
 | Repo | Reason | Reversibility |
 |---|---|---|
 | Check123 | Test/noise repository | Can be unarchived |
+| fp | Empty/no-default-branch repository | Can be unarchived |
 | fake-commits-generator | Off-brand fork/reference | Can be unarchived |
 | 30DaysOfCode | Coding-practice repo with off-brand public surface | Can be unarchived |
 | nfl_betting_model | Sports betting repo distracts from healthcare/AI positioning | Can be unarchived |
@@ -56,11 +57,11 @@ See [PINNING_INSTRUCTIONS.md](PINNING_INSTRUCTIONS.md) for the manual ordering s
 | Repo | Validation | Result |
 |---|---|---|
 | hospital-readmission-fhir-ml-api | `python -m pip install -e .[dev]`; `python -m pytest`; `python -m compileall app scripts`; uvicorn `/health` smoke | Passed: 8 tests, compile OK, health OK |
-| hl7-ai-challenge | `docker compose config`; `python -m compileall setup_rabbitmq.py integration_test.py demo_end_to_end_test.py shared services`; live demo/integration scripts | Compose/config and compile passed; live scripts failed because services were not running locally |
-| llm-steering | `python -m compileall src scripts tests` | Passed; full tests/model runs not run because repo declares Python 3.13 and heavy model dependencies |
+| hl7-ai-challenge | `docker compose config` | Passed with obsolete `version` warning; services were not started locally |
+| llm-steering | `py -3.13 -m pytest`; `py -3.13 -m compileall src scripts` | Passed: 23 tests and compile OK |
 | ollama_poc | `python test_prompt.py`; `python test_memory.py`; `python -m compileall .` | Passed against available local Ollama path; compile OK |
-| AlphaQuant | `python -m compileall src scripts` | Passed |
-| FreshTrackAIModule | `python -m pytest tests`; `python -m compileall app scripts` | Compile passed; pytest collection failed because local environment lacks `sentence_transformers` |
+| AlphaQuant | `docker compose config`; `python -m compileall src scripts` | Passed after copying `.env.example` to ignored local `.env`; compose warned about obsolete `version` |
+| FreshTrackAIModule | `docker compose config`; `python -m compileall app tests scripts`; selected pytest checks | Compose and compile passed; full pytest blocked by missing `sentence_transformers`; OCR/service tests also need `pytesseract` or PaddleOCR and a running localhost:8005 service |
 | ChatWithWiki_AzureML | `python -m compileall .` | Passed |
 
 `git diff --check` passed for modified repos before commit, with line-ending warnings only.
@@ -71,4 +72,3 @@ See [PINNING_INSTRUCTIONS.md](PINNING_INSTRUCTIONS.md) for the manual ordering s
 - Some historical HL7 challenge deliverables still contain scenario metrics as demo artifacts; added docs and wording changes clarify synthetic/demo status.
 - FreshTrack full tests require optional OCR/embedding dependencies not installed in this local environment.
 - No real PHI, PII, secrets, employer data, or production credentials were added.
-
