@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-label="Shailesh Dudala Applied AI portfolio">
+  <rect width="1280" height="420" fill="#07111f"/>
+  <g stroke="#1e3656" stroke-width="1">
+    <path d="M0 90h1280M0 180h1280M0 270h1280M0 360h1280"/>
+    <path d="M120 0v420M300 0v420M480 0v420M660 0v420M840 0v420M1020 0v420M1200 0v420"/>
+  </g>
+  <circle cx="1040" cy="160" r="86" fill="#10243c" stroke="#36d7e8" stroke-width="3"/>
+  <path d="M988 160h104M1040 108v104M1008 128l64 64M1072 128l-64 64" stroke="#36d7e8" stroke-width="5" stroke-linecap="round"/>
+  <rect x="910" y="284" width="260" height="54" rx="10" fill="#0d1b2e" stroke="#2dd4bf" stroke-width="2"/>
+  <text x="1040" y="318" fill="#dffbff" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">FHIR | HL7 | LLMOps</text>
+  <text x="70" y="145" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Shailesh Dudala</text>
+  <text x="72" y="205" fill="#36d7e8" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Senior Applied AI / Agentic AI Engineer</text>
+  <text x="72" y="270" fill="#c8d7ec" font-family="Inter, Arial, sans-serif" font-size="24">Production AI systems for healthcare, insurance, document intelligence, interoperability, and LLMOps.</text>
+  <g fill="#0d1b2e" stroke="#5ee08d" stroke-width="2">
+    <rect x="74" y="318" width="140" height="44" rx="8"/>
+    <rect x="230" y="318" width="180" height="44" rx="8"/>
+    <rect x="426" y="318" width="160" height="44" rx="8"/>
+  </g>
+  <text x="144" y="347" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Agentic AI</text>
+  <text x="320" y="347" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Document AI</text>
+  <text x="506" y="347" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Healthcare ML</text>
+</svg>
