@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-label="Shailesh Dudala Applied AI portfolio">
-  <rect width="1280" height="420" fill="#07111f"/>
-  <g stroke="#1e3656" stroke-width="1">
-    <path d="M0 90h1280M0 180h1280M0 270h1280M0 360h1280"/>
-    <path d="M120 0v420M300 0v420M480 0v420M660 0v420M840 0v420M1020 0v420M1200 0v420"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shailesh Dudala Applied AI portfolio</title>
+  <desc id="desc">Profile banner for healthcare AI, agentic AI, document intelligence, quant forecasting, data science, and MLOps systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#05070c"/><stop offset=".55" stop-color="#0f172a"/><stop offset="1" stop-color="#182033"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#58dce6"/><stop offset=".52" stop-color="#86efac"/><stop offset="1" stop-color="#f7c86a"/></linearGradient>
+  </defs>
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity=".055" stroke-width="1"><path d="M0 90h1280M0 180h1280M0 270h1280M0 360h1280"/><path d="M120 0v420M300 0v420M480 0v420M660 0v420M840 0v420M1020 0v420M1200 0v420"/></g>
+  <rect x="72" y="64" width="1136" height="292" rx="18" fill="#ffffff" fill-opacity=".055" stroke="#b4cae8" stroke-opacity=".22"/>
+  <text x="110" y="134" fill="#58dce6" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="900" letter-spacing="4">APPLIED AI SYSTEMS PORTFOLIO</text>
+  <text x="110" y="202" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="900">Shailesh Dudala</text>
+  <text x="112" y="256" fill="#d8e6f7" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="750">Senior Applied AI / ML Engineer</text>
+  <text x="112" y="306" fill="#a7b5c9" font-family="Inter, Arial, sans-serif" font-size="21">Healthcare AI, Agentic AI, Document Intelligence, Quant Forecasting, Data Science, MLOps</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">
+    <rect x="820" y="120" width="150" height="48" rx="9" fill="#58dce6" fill-opacity=".12" stroke="#58dce6" stroke-opacity=".42"/><text x="895" y="151" fill="#e9fdff">FHIR / HL7</text>
+    <rect x="992" y="120" width="150" height="48" rx="9" fill="#86efac" fill-opacity=".11" stroke="#86efac" stroke-opacity=".38"/><text x="1067" y="151" fill="#edfff4">Agentic AI</text>
+    <rect x="820" y="190" width="150" height="48" rx="9" fill="#f7c86a" fill-opacity=".12" stroke="#f7c86a" stroke-opacity=".42"/><text x="895" y="221" fill="#fff4cc">Forecasting</text>
+    <rect x="992" y="190" width="150" height="48" rx="9" fill="#c4b5fd" fill-opacity=".12" stroke="#c4b5fd" stroke-opacity=".4"/><text x="1067" y="221" fill="#f0eaff">Document AI</text>
+    <path d="M836 292H1126" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/><text x="980" y="328" fill="#f5f8ff">smgpulse007.github.io</text>
   </g>
-  <circle cx="1040" cy="160" r="86" fill="#10243c" stroke="#36d7e8" stroke-width="3"/>
-  <path d="M988 160h104M1040 108v104M1008 128l64 64M1072 128l-64 64" stroke="#36d7e8" stroke-width="5" stroke-linecap="round"/>
-  <rect x="910" y="284" width="260" height="54" rx="10" fill="#0d1b2e" stroke="#2dd4bf" stroke-width="2"/>
-  <text x="1040" y="318" fill="#dffbff" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">FHIR | HL7 | LLMOps</text>
-  <text x="70" y="145" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Shailesh Dudala</text>
-  <text x="72" y="205" fill="#36d7e8" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Senior Applied AI / Agentic AI Engineer</text>
-  <text x="72" y="270" fill="#c8d7ec" font-family="Inter, Arial, sans-serif" font-size="24">Production AI systems for healthcare, insurance, document intelligence, interoperability, and LLMOps.</text>
-  <g fill="#0d1b2e" stroke="#5ee08d" stroke-width="2">
-    <rect x="74" y="318" width="140" height="44" rx="8"/>
-    <rect x="230" y="318" width="180" height="44" rx="8"/>
-    <rect x="426" y="318" width="160" height="44" rx="8"/>
-  </g>
-  <text x="144" y="347" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Agentic AI</text>
-  <text x="320" y="347" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Document AI</text>
-  <text x="506" y="347" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Healthcare ML</text>
 </svg>
