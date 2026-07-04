@@ -8,15 +8,15 @@ I build production-grade AI systems across healthcare, insurance, document intel
 
 ## Portfolio
 
-**Start here:** [smgpulse007.github.io](https://smgpulse007.github.io/)
+**Start here:** [smgpulse007.github.io](https://smgpulse007.github.io/) - redesigned as an interactive Applied AI Systems Console.
 
-What the portfolio proves:
+Portfolio structure:
 
 - Healthcare and insurance AI: FHIR/HL7, claims automation, HEDIS, readmission, LOS, FWA analytics, and public-safe synthetic demos.
 - Agentic AI, LLMOps, and document intelligence: local LLMs, RAG, OCR, activation steering, workflow state, validation gates, and review UX.
 - Quant, forecasting, and research systems: AlphaQuant, sports forecasting/backtesting, calibration, research visualization, GPU planning, and data science foundations.
 
-## Featured Systems
+## Featured Case Studies
 
 | System | Focus |
 |---|---|
