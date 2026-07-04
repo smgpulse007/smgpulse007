@@ -8,7 +8,7 @@ I build production-grade AI systems across healthcare, insurance, document intel
 
 ## Portfolio
 
-**Start here:** [smgpulse007.github.io](https://smgpulse007.github.io/) - redesigned as an interactive Applied AI Systems Console.
+**Start here:** [smgpulse007.github.io](https://smgpulse007.github.io/) - a premium Applied AI systems portfolio with case studies, artifacts, and architecture maps.
 
 Portfolio structure:
 
@@ -34,7 +34,7 @@ Portfolio structure:
 
 ## Links
 
-[Portfolio](https://smgpulse007.github.io/) | [Systems](https://smgpulse007.github.io/systems/) | [Professional Systems](https://smgpulse007.github.io/professional-systems/) | [Research Archive](https://smgpulse007.github.io/research-archive/) | [LinkedIn](https://www.linkedin.com/in/ssdudala/)
+[Portfolio](https://smgpulse007.github.io/) | [Systems](https://smgpulse007.github.io/systems/) | [Professional Systems](https://smgpulse007.github.io/professional-systems/) | [Research Lab](https://smgpulse007.github.io/research-archive/) | [LinkedIn](https://www.linkedin.com/in/ssdudala/)
 
 ## Safety Note
 
