@@ -4,31 +4,37 @@
 
 **Senior Applied AI / ML Engineer**
 
-I build production-grade agentic AI, document intelligence, healthcare and insurance ML, financial research systems, sports forecasting models, and MLOps/LLMOps infrastructure.
+I build production-grade AI systems across healthcare, insurance, document intelligence, claims automation, agentic workflows, forecasting, and MLOps/LLMOps.
 
 ## Portfolio
 
 **Start here:** [smgpulse007.github.io](https://smgpulse007.github.io/)
 
-The portfolio includes:
+What the portfolio proves:
 
 - Healthcare and insurance AI: FHIR/HL7, claims automation, HEDIS, readmission, LOS, FWA analytics, and public-safe synthetic demos.
 - Agentic AI, LLMOps, and document intelligence: local LLMs, RAG, OCR, activation steering, workflow state, validation gates, and review UX.
-- Quant, forecasting, and data science: AlphaQuant, sports forecasting/backtesting, calibration, research visualization, GPU planning, and older foundations.
+- Quant, forecasting, and research systems: AlphaQuant, sports forecasting/backtesting, calibration, research visualization, GPU planning, and data science foundations.
 
-## Featured Routes
+## Featured Systems
 
-| Route | Focus |
+| System | Focus |
 |---|---|
-| [Systems](https://smgpulse007.github.io/systems/) | Filterable project library with maturity labels |
-| [Case Studies](https://smgpulse007.github.io/projects/) | Substantive architecture writeups |
-| [Quant & Forecasting](https://smgpulse007.github.io/quant-forecasting/) | Agentic market intelligence and sports forecasting |
-| [Data Science Lab](https://smgpulse007.github.io/data-science-lab/) | Older experiments, research notes, and archive-tier work |
-| [Experience](https://smgpulse007.github.io/experience/) | Public-safe applied AI story |
+| [Hospital Readmission FHIR ML API](https://smgpulse007.github.io/projects/hospital-readmission-fhir-ml-api/) | Synthetic FHIR-style FastAPI risk scoring and explainability |
+| [HL7 AI Challenge Platform](https://smgpulse007.github.io/projects/hl7-ai-challenge/) | Event-driven HL7/FHIR quality intelligence architecture |
+| [LLM Steering Lab](https://smgpulse007.github.io/projects/llm-steering/) | Local activation steering and LLMOps workbench |
+| [AlphaQuant](https://smgpulse007.github.io/projects/agentic-alpha-engine/) | Local-first agentic market-intelligence infrastructure |
+| [NFL Forecasting Lab](https://smgpulse007.github.io/projects/nfl-sports-forecasting/) | Historical forecasting, calibration, and backtesting |
+
+## Recognition
+
+- Global HL7 AI Challenge Winner - Transformative Impact in Healthcare
+- MeldRx Predictive AI Hackathon Winner
+- HiCounselor / BCBS-NC Hackathon Winner
 
 ## Links
 
-[Portfolio](https://smgpulse007.github.io/) | [LinkedIn](https://www.linkedin.com/in/ssdudala/) | [GitHub](https://github.com/smgpulse007)
+[Portfolio](https://smgpulse007.github.io/) | [Systems](https://smgpulse007.github.io/systems/) | [Professional Systems](https://smgpulse007.github.io/professional-systems/) | [Research Archive](https://smgpulse007.github.io/research-archive/) | [LinkedIn](https://www.linkedin.com/in/ssdudala/)
 
 ## Safety Note
 
